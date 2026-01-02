@@ -6,6 +6,9 @@
 
 
 
+
+
+
 Learn Kubernetes concepts in a 12 hour tutorial by TrainWithShubham [here](https://youtu.be/W04brGNgxN4?si=KuUs-ajJOE7TfYs-)
 
 ## Architecture Guides
